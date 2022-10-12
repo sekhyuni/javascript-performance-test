@@ -1,1 +1,1 @@
-# javascript-performance-test
+# javascript-test (process & performance)
